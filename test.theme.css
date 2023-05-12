@@ -1,14 +1,3 @@
-/**
- * @name Test
- * @author ClearVision Team
- * @version 6.3.0
- * @description Highly customizable and beautiful theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite 7pNUC9C
- * @BDEditor Clear Vision
-*/
-
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
@@ -84,7 +73,3 @@
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
 }
-
-/* Any custom CSS below here */
-
-
